@@ -1,0 +1,12 @@
+.productName {
+  width: 100%;
+  background-color: blue;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.productName h1 {
+  color: aliceblue;
+}
